@@ -1,5 +1,14 @@
-# Bing
-# From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
+DOMAIN-SUFFIX,client.wns.windows.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.cn
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com

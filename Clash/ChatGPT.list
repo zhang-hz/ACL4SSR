@@ -1,0 +1,19 @@
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,pay.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,sprig.com
+# Add ai.com
+DOMAIN-SUFFIX,ai.com
+# Add stripe.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
